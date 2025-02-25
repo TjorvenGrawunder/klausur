@@ -1,0 +1,2 @@
+Zeile 1: Willkommen im Projekt!
+Zeile 2: Dies ist die Anfangsversion.
